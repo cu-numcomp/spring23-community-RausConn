@@ -16,7 +16,7 @@ The primary audience for FEniCS dolfinx is anyone from students to professionals
 | Year project was started | 2003 |
 | Number of contributors in the past year | 25 |
 | Number of contributors in the lifetime of the project | 88 |
-| Number of distinct affiliations | 1, 2-5, 5-10, >10 |
+| Number of distinct affiliations | At least 9 |
 | Where do development discussions take place? | GitHub issues, Slack  |
 | Typical number of emails/comments per week? | ~2-3 GitHub Issues per week  |
 | Typical number of commits per week? | ~7 per week |
