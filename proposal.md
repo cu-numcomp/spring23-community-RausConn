@@ -1,9 +1,9 @@
 # Community Software Analysis Proposal
 Please edit this file and push to your repository.
 
-## Software: *SageMath*
+## Software: *FEniCS*
 
-FEniCS is used to solve a wide range of problems that involve partial differential equations (PDEs) and finite element methods (FEMs) in scientific computing. Some examples of problems that can be solved using FEniCS include solving linear systems, variational problems, time-dependent PDEs, non-linear PDEs, and systems of time-dependent non-linear PDEs.
+FEniCS is used to solve a wide range of problems that involve partial differential equations (PDEs) and finite element methods (FEMs) in scientific computing. Dolfinx is the largest part of FEniCS that does most of the math in FEniCS, which is why the documentation refers a lot to it. Problems that can be solved using FEniCS include linear systems, variational problems, time-dependent PDEs, non-linear PDEs, and systems of time-dependent non-linear PDEs.
 
 The primary audience for FEniCS dolfinx is anyone from students to professionals who work with partial differential equations or finite element methods in scientific computing.
 
