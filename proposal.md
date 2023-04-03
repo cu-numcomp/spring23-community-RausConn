@@ -1,39 +1,40 @@
 # Community Software Analysis Proposal
 Please edit this file and push to your repository.
 
-## Software: *NAME_OF_PACKAGE_HERE*
+## Software: *SageMath*
 
-*Write a paragraph describing what the software does and who its
-primary audience is.*
+FEniCS is used to solve a wide range of problems that involve partial differential equations (PDEs) and finite element methods (FEMs) in scientific computing. Some examples of problems that can be solved using FEniCS include solving linear systems, variational problems, time-dependent PDEs, non-linear PDEs, and systems of time-dependent non-linear PDEs.
+
+The primary audience for FEniCS dolfinx is anyone from students to professionals who work with partial differential equations or finite element methods in scientific computing.
 
 ### Stats
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |    |
-| Main/documentation website |    |
-| Year project was started |   |
-| Number of contributors in the past year | `git shortlog -se --since=2022-03-01` may be useful |
-| Number of contributors in the lifetime of the project |   |
+| Repository URL | https://github.com/FEniCS/dolfinx |
+| Main/documentation website | https://docs.fenicsproject.org/dolfinx/main/python/ |
+| Year project was started | 2003 |
+| Number of contributors in the past year | 25 |
+| Number of contributors in the lifetime of the project | 88 |
 | Number of distinct affiliations | 1, 2-5, 5-10, >10 |
-| Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
-| Typical number of emails/comments per week? |   |
-| Typical number of commits per week? |  |
-| Typical commit size | `git log --shortstat` may be useful |
-| How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
-| Does the project have an automated test suite? | yes/no |
-| Does the project use continuous integration? | yes/no |
-| Are any legal/licensing steps required to contribute? | no or explain below |
+| Where do development discussions take place? | GitHub issues, Slack  |
+| Typical number of emails/comments per week? | ~2-3 GitHub Issues per week  |
+| Typical number of commits per week? | ~7 per week |
+| Typical commit size | Usually about 200-800 lines of changes, there are some outliers that are over 6000 lines changed, and others that are only a few lines changed. |
+| How does the project accept contributions? | Pull requests |
+| Does the project have an automated test suite? | yes |
+| Does the project use continuous integration? | yes |
+| Are any legal/licensing steps required to contribute? | no |
 
 ### Install and run
 
 Check the following boxes when complete or add a note below if you
 encountered a problem.
 
-- [ ] I have installed the software
-- [ ] I have run at least one example
-- [ ] I have run the test suite
-- [ ] The test suite passes
+- [ X ] I have installed the software
+- [ X ] I have run at least one example
+- [ X ] I have run the test suite
+- [ X ] The test suite passes
 
 ### Notes/concerns/risks
 
