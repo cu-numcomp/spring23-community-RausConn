@@ -33,8 +33,11 @@ encountered a problem.
 
 - [ X ] I have installed the software
 - [ X ] I have run at least one example
-- [ X ] I have run the test suite
-- [ X ] The test suite passes
+- [ - ] I have run the test suite
+
+    The automated test suite on GitHub currently passes, but locally there doesn't seem to be a test suite. However, there are many examples that can be run to test, and they successfully run and plot their results when run.
+
+- [ X ] The test suite passes (Marked as yes because automated tests pass on GitHub, and demos run properly locally)
 
 ### Notes/concerns/risks
 
@@ -44,6 +47,8 @@ otherwise have concerns about the appropriateness of the software.  If
 the project requires a contributor license agreement or other
 procedural steps, please explain here.  "None at this time" is
 acceptable for this question.
+
+ - None at this time.
 
 #### Note on copyright
 Students retain copyright on any work done in completion of a CU
